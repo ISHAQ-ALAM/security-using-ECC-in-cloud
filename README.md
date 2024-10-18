@@ -1,1 +1,3 @@
 # security-using-ECC-in-cloud
+<br>
+The project "Security Using Elliptic Curve Cryptography (ECC) in Cloud" focuses on enhancing the security of cloud computing environments by employing Elliptic Curve Cryptography. ECC is a public-key encryption technique that provides strong encryption with smaller key sizes compared to traditional methods like RSA, making it efficient for resource-constrained environments. The project typically explores the implementation of ECC to ensure data confidentiality, integrity, and secure key exchange in cloud storage or communication services while maintaining lower computational overhead.
